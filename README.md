@@ -17,7 +17,7 @@ Der Launcher sucht beim Start nach neuen Versionen und installiert sie auf Wunsc
 
 ## Vom bisherigen Launcher wechseln
 
-Wer schon mit dem bisherigen Launcher spielt, lädt den neuen Launcher einmal hier herunter und startet ihn. Er findet die vorhandene Installation, bietet das Update an und behält die bisherige Version als Rückweg. Beim ersten Start fragt das Spiel, ob der bisherige Spielstand übernommen werden soll.
+Wer schon mit dem bisherigen Launcher spielt, lädt den neuen Launcher einmal hier herunter und startet ihn. Er findet die vorhandene Installation, bietet das Update an und behält die bisherige Version als Rückweg. Der Spielstand der Unity-Fassung (ab 0.1.105) bleibt erhalten. Die frühere Godot-Fassung (bis 0.8.15) startet der Launcher ab 0.6.0 nicht mehr, und ihr Spielstand wird nicht mehr übernommen.
 
 ## Zusammen spielen
 
