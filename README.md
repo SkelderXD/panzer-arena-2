@@ -13,12 +13,16 @@ Die übrigen Dateien im Release mit langen Namen aus Zahlen und Buchstaben sind 
 
 ## Updates
 
-Der Launcher sucht beim Start nach neuen Versionen und installiert sie auf Wunsch. Die vorherige Version bleibt erhalten und lässt sich im Launcher wieder wählen.
+Der Launcher sucht beim Start nach neuen Versionen und installiert sie auf Wunsch. Die vorherige Version bleibt erhalten und lässt sich im Launcher wieder wählen. Ab Launcher 0.7.0 sichert er vorher deinen Spielstand (die letzten fünf Sicherungen, unter **Einstellungen → Sicherungen öffnen**) und erneuert sich bei Bedarf selbst.
 
 ## Vom bisherigen Launcher wechseln
+
+**Ab Spielversion 0.2.140 braucht Panzer 3D den Launcher 0.7.0 oder neuer.** Ältere Launcher (0.5.0, 0.6.0) melden dann „Dieses Spielupdate benötigt einen neueren Launcher“; die installierte Version bleibt spielbar. Lade in diesem Fall den neuen Launcher einmal hier herunter, ersetze damit die alte Launcher-Datei und starte ihn. Ab 0.7.0 aktualisiert sich der Launcher danach selbst.
 
 Wer schon mit dem bisherigen Launcher spielt, lädt den neuen Launcher einmal hier herunter und startet ihn. Er findet die vorhandene Installation, bietet das Update an und behält die bisherige Version als Rückweg. Der Spielstand der Unity-Fassung (ab 0.1.105) bleibt erhalten. Die frühere Godot-Fassung (bis 0.8.15) startet der Launcher ab 0.6.0 nicht mehr, und ihr Spielstand wird nicht mehr übernommen.
 
 ## Zusammen spielen
 
 In der Garage **ZUG** öffnen, einen Zug erstellen und den Code weitergeben; bis zu vier Spieler treten mit dem Code bei, die übrigen Plätze füllt die KI.
+
+Ab Launcher 0.7.0 geht es auch per Link: **ZUG → LINK ZUM BEITRETEN KOPIEREN** und den Link weitergeben. Ein Klick darauf startet das Spiel über den Launcher und tritt dem Zug bei.
